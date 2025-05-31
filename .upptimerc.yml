@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: T00LS Upptime
   introTitle: "T00LS online service upptime"
-  introMessage: upptime stats for onlin services on T00LS.EU
+  introMessage: upptime stats for online services on T00LS.EU
   navbar:
     - title: Status
       href: /
