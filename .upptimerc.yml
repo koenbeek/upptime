@@ -16,7 +16,7 @@ status-website:
   cname: up.t00ls.eu
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: T00LS Upptime
+  name: T00LS Uptime
   introTitle: "T00LS online service upptime"
   introMessage: upptime stats for online services on T00LS.EU
   navbar:
