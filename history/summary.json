@@ -22,18 +22,20 @@
     "url": "https://assets.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.t00ls.eu.ico",
     "slug": "assets-overview",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 567,
-    "timeWeek": 698,
-    "timeMonth": 800,
-    "timeYear": 800,
-    "dailyMinutesDown": {}
+    "time": 794,
+    "timeDay": 590,
+    "timeWeek": 688,
+    "timeMonth": 794,
+    "timeYear": 794,
+    "dailyMinutesDown": {
+      "2025-06-28": 0
+    }
   },
   {
     "name": "Assets API backend",
