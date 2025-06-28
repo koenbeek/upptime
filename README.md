@@ -1,4 +1,4 @@
-# [📈 Live Status](https://t00ls.eu.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://up.t00ls.eu): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [t00ls.eu](https://t00ls.eu.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
