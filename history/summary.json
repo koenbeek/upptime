@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.t00ls.eu.ico",
     "slug": "web-tools",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 941,
-    "timeDay": 769,
-    "timeWeek": 767,
-    "timeMonth": 843,
-    "timeYear": 941,
-    "dailyMinutesDown": {
-      "2025-07-22": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 937,
+    "timeDay": 671,
+    "timeWeek": 762,
+    "timeMonth": 838,
+    "timeYear": 937,
+    "dailyMinutesDown": {}
   },
   {
     "name": "assets overview",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.t00ls.eu.ico",
     "slug": "assets-overview",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 779,
-    "timeDay": 994,
-    "timeWeek": 818,
-    "timeMonth": 741,
-    "timeYear": 779,
-    "dailyMinutesDown": {
-      "2025-07-22": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 778,
+    "timeDay": 975,
+    "timeWeek": 807,
+    "timeMonth": 738,
+    "timeYear": 778,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Assets API backend",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "assets-api-backend",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 164,
     "timeWeek": 166,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {
-      "2025-07-22": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
