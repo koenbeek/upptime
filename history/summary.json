@@ -40,19 +40,19 @@
     "url": "https:/assets.t00ls.eu/api/management/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "assets-api-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 150,
-    "timeDay": 172,
-    "timeWeek": 166,
+    "timeDay": 174,
+    "timeWeek": 167,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 20
     }
   }
 ]
