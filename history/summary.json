@@ -4,9 +4,9 @@
     "url": "https://www.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.t00ls.eu.ico",
     "slug": "web-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "98.51%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,7 +16,7 @@
     "timeMonth": 720,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2025-07-30": 21
+      "2025-07-30": 22
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://assets.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.t00ls.eu.ico",
     "slug": "assets-overview",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.58%",
     "uptimeWeek": "99.80%",
@@ -52,7 +52,7 @@
     "uptimeYear": "99.98%",
     "time": 148,
     "timeDay": 132,
-    "timeWeek": 136,
+    "timeWeek": 131,
     "timeMonth": 151,
     "timeYear": 148,
     "dailyMinutesDown": {
