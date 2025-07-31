@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 651,
-    "timeWeek": 720,
-    "timeMonth": 722,
-    "timeYear": 906,
+    "time": 900,
+    "timeDay": 580,
+    "timeWeek": 689,
+    "timeMonth": 714,
+    "timeYear": 900,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 664,
-    "timeWeek": 597,
-    "timeMonth": 725,
-    "timeYear": 754,
+    "time": 751,
+    "timeDay": 616,
+    "timeWeek": 589,
+    "timeMonth": 719,
+    "timeYear": 751,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 158,
-    "timeWeek": 139,
-    "timeMonth": 152,
+    "timeDay": 145,
+    "timeWeek": 137,
+    "timeMonth": 151,
     "timeYear": 148,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Nextcloud",
+    "url": "https://cloud.t00ls.eu/ocs/v2.php/apps/serverinfo/api/v1/info",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.t00ls.eu.ico",
+    "slug": "nextcloud",
+    "status": "down",
+    "uptime": "36.38%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "36.38%",
+    "uptimeMonth": "36.38%",
+    "uptimeYear": "36.38%",
+    "time": 746,
+    "timeDay": 746,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   }
 ]
