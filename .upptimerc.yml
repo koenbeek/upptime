@@ -10,8 +10,7 @@ sites:
     url: https:/assets.t00ls.eu/api/management/health
     __dangerous__body_down_if_text_missing: '"status":"UP"'
   - name: Nextcloud
-    url: https://cloud.t00ls.eu/ocs/v2.php/apps/serverinfo/api/v1/info
-
+    url: https://cloud.t00ls.eu
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
