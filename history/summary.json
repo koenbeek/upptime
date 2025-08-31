@@ -4,18 +4,20 @@
     "url": "https://www.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.t00ls.eu.ico",
     "slug": "web-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
     "timeDay": 684,
     "timeWeek": 858,
-    "timeMonth": 741,
+    "timeMonth": 751,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "assets overview",
@@ -31,7 +33,7 @@
     "time": 720,
     "timeDay": 746,
     "timeWeek": 797,
-    "timeMonth": 647,
+    "timeMonth": 651,
     "timeYear": 720,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 146,
     "timeDay": 120,
     "timeWeek": 131,
-    "timeMonth": 139,
+    "timeMonth": 140,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 1160,
     "timeDay": 1325,
     "timeWeek": 1234,
-    "timeMonth": 1160,
+    "timeMonth": 1173,
     "timeYear": 1160,
     "dailyMinutesDown": {}
   }
