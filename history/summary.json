@@ -58,18 +58,19 @@
     "url": "https://cloud.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.t00ls.eu.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 1204,
-    "timeDay": 1384,
-    "timeWeek": 1218,
-    "timeMonth": 1248,
-    "timeYear": 1204,
+    "time": 1228,
+    "timeDay": 2165,
+    "timeWeek": 1434,
+    "timeMonth": 1300,
+    "timeYear": 1228,
     "dailyMinutesDown": {
+      "2025-10-06": 0,
       "2025-09-15": 30
     }
   }
