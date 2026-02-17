@@ -1,7 +1,7 @@
 url: https://assets.t00ls.eu/api/management/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-17T10:54:50.642Z
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2026-02-17T13:24:11.417Z
 startTime: 2025-05-31T09:14:09.266Z
 generator: Upptime <https://github.com/upptime/upptime>
