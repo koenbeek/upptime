@@ -4,9 +4,9 @@
     "url": "https://www.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.t00ls.eu.ico",
     "slug": "web-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 835,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-04-18": 102,
       "2026-02-17": 202,
       "2025-12-24": 66
@@ -26,9 +27,9 @@
     "url": "https://assets.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/assets.t00ls.eu.ico",
     "slug": "assets-overview",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -38,6 +39,7 @@
     "timeMonth": 662,
     "timeYear": 749,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-02-17": 202,
       "2025-12-24": 66
     }
@@ -47,9 +49,9 @@
     "url": "https://assets.t00ls.eu/api/management/health",
     "icon": "https://icons.duckduckgo.com/ip3/assets.t00ls.eu.ico",
     "slug": "assets-api-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -59,6 +61,7 @@
     "timeMonth": 144,
     "timeYear": 145,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-02-17": 200,
       "2025-12-24": 66
     }
@@ -68,9 +71,9 @@
     "url": "https://cloud.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.t00ls.eu.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.60%",
@@ -80,6 +83,7 @@
     "timeMonth": 1211,
     "timeYear": 1231,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-04-03": 105,
       "2026-03-22": 289,
       "2026-03-21": 378,
@@ -104,9 +108,9 @@
     "url": "https://el.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/el.t00ls.eu.ico",
     "slug": "eu-electricity-prices",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "93.77%",
+    "uptimeDay": "93.76%",
     "uptimeWeek": "84.10%",
     "uptimeMonth": "94.08%",
     "uptimeYear": "99.01%",
