@@ -1,7 +1,7 @@
 url: https://ass.t00ls.eu/api/management/health
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2026-08-17T09:03:55.170Z
+status: down
+code: 503
+responseTime: 30385
+lastUpdated: 2026-08-17T17:13:12.629Z
 startTime: 2025-05-31T09:14:09.266Z
 generator: Upptime <https://github.com/upptime/upptime>
