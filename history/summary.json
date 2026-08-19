@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ass.t00ls.eu.ico",
     "slug": "assets-overview",
     "status": "up",
-    "uptime": "92.49%",
+    "uptime": "92.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
@@ -145,17 +145,17 @@
     "url": "https://cloud.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.t00ls.eu.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.64%",
-    "time": 1309,
-    "timeDay": 1216,
-    "timeWeek": 1425,
-    "timeMonth": 1441,
-    "timeYear": 1319,
+    "time": 1307,
+    "timeDay": 831,
+    "timeWeek": 1327,
+    "timeMonth": 1412,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2025-09-15": 30,
       "2025-10-06": 28,
@@ -176,7 +176,8 @@
       "2026-04-03": 105,
       "2026-04-26": 77,
       "2026-05-11": 230,
-      "2026-08-17": 50
+      "2026-08-17": 50,
+      "2026-08-19": 0
     }
   }
 ]
