@@ -4,16 +4,16 @@
     "url": "https://www.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.t00ls.eu.ico",
     "slug": "web-tools",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
     "time": 859,
-    "timeDay": 659,
-    "timeWeek": 627,
-    "timeMonth": 787,
+    "timeDay": 731,
+    "timeWeek": 646,
+    "timeMonth": 788,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-12-24": 66,
@@ -22,7 +22,7 @@
       "2026-04-26": 41,
       "2026-05-09": 69,
       "2026-08-17": 43,
-      "2026-08-20": 9
+      "2026-08-20": 28
     }
   },
   {
@@ -30,17 +30,17 @@
     "url": "https://ass.t00ls.eu",
     "icon": "https://icons.duckduckgo.com/ip3/ass.t00ls.eu.ico",
     "slug": "assets-overview",
-    "status": "down",
-    "uptime": "92.52%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "status": "up",
+    "uptime": "92.51%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "90.85%",
     "time": 741,
-    "timeDay": 639,
-    "timeWeek": 698,
-    "timeMonth": 728,
-    "timeYear": 748,
+    "timeDay": 591,
+    "timeWeek": 681,
+    "timeMonth": 722,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-12-24": 66,
       "2026-02-17": 202,
@@ -81,7 +81,7 @@
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-08-17": 43,
-      "2026-08-20": 4
+      "2026-08-20": 23
     }
   },
   {
@@ -89,17 +89,17 @@
     "url": "https://ass.t00ls.eu/api/management/health",
     "icon": "https://icons.duckduckgo.com/ip3/ass.t00ls.eu.ico",
     "slug": "assets-api-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "92.50%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "90.84%",
-    "time": 275,
-    "timeDay": 678,
-    "timeWeek": 3500,
-    "timeMonth": 1378,
-    "timeYear": 310,
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "90.83%",
+    "time": 276,
+    "timeDay": 668,
+    "timeWeek": 3241,
+    "timeMonth": 1358,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-12-24": 66,
       "2026-02-17": 200,
@@ -140,7 +140,7 @@
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-08-17": 141,
-      "2026-08-20": 1
+      "2026-08-20": 19
     }
   },
   {
@@ -149,10 +149,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.t00ls.eu.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.38%",
+    "uptime": "99.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.19%",
-    "uptimeMonth": "96.36%",
+    "uptimeWeek": "84.00%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.34%",
     "time": 1307,
     "timeDay": 0,
@@ -180,7 +180,7 @@
       "2026-04-26": 77,
       "2026-05-11": 230,
       "2026-08-17": 50,
-      "2026-08-20": 677,
+      "2026-08-20": 696,
       "2026-08-19": 867
     }
   }
